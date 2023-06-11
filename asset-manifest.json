@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/convertisseur-salaire/static/css/main.3983ef42.css",
+    "main.js": "/convertisseur-salaire/static/js/main.3b15be6c.js",
+    "static/js/787.aef2f8fb.chunk.js": "/convertisseur-salaire/static/js/787.aef2f8fb.chunk.js",
+    "index.html": "/convertisseur-salaire/index.html",
+    "main.3983ef42.css.map": "/convertisseur-salaire/static/css/main.3983ef42.css.map",
+    "main.3b15be6c.js.map": "/convertisseur-salaire/static/js/main.3b15be6c.js.map",
+    "787.aef2f8fb.chunk.js.map": "/convertisseur-salaire/static/js/787.aef2f8fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3983ef42.css",
+    "static/js/main.3b15be6c.js"
+  ]
+}
